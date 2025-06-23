@@ -36,7 +36,7 @@ requirements.txt     # Python dependencies
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Yavic2024/autonomous-rag.git
    cd <repo-name>
    ```
 
